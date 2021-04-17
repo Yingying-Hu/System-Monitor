@@ -48,15 +48,15 @@ processor.h
 linux_parser.h
 ../include/linux_parser.h
 
-/home/workspace/CppND-System-Monitor/src/format.cpp
+/home/workspace/CppND-System-Monitor/System-Monitor/src/format.cpp
 sstream
 -
 string
 -
 format.h
-/home/workspace/CppND-System-Monitor/src/format.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/format.h
 
-/home/workspace/CppND-System-Monitor/src/linux_parser.cpp
+/home/workspace/CppND-System-Monitor/System-Monitor/src/linux_parser.cpp
 dirent.h
 -
 unistd.h
@@ -70,15 +70,15 @@ vector
 iostream
 -
 linux_parser.h
-/home/workspace/CppND-System-Monitor/src/linux_parser.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/linux_parser.h
 
-/home/workspace/CppND-System-Monitor/src/main.cpp
+/home/workspace/CppND-System-Monitor/System-Monitor/src/main.cpp
 system.h
-/home/workspace/CppND-System-Monitor/src/system.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/system.h
 ncurses_display.h
-/home/workspace/CppND-System-Monitor/src/ncurses_display.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/ncurses_display.h
 
-/home/workspace/CppND-System-Monitor/src/ncurses_display.cpp
+/home/workspace/CppND-System-Monitor/System-Monitor/src/ncurses_display.cpp
 curses.h
 -
 chrono
@@ -90,13 +90,13 @@ thread
 vector
 -
 format.h
-/home/workspace/CppND-System-Monitor/src/format.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/format.h
 ncurses_display.h
-/home/workspace/CppND-System-Monitor/src/ncurses_display.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/ncurses_display.h
 system.h
-/home/workspace/CppND-System-Monitor/src/system.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/system.h
 
-/home/workspace/CppND-System-Monitor/src/process.cpp
+/home/workspace/CppND-System-Monitor/System-Monitor/src/process.cpp
 unistd.h
 -
 cctype
@@ -108,17 +108,17 @@ string
 vector
 -
 linux_parser.h
-/home/workspace/CppND-System-Monitor/src/linux_parser.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/linux_parser.h
 process.h
-/home/workspace/CppND-System-Monitor/src/process.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/process.h
 
-/home/workspace/CppND-System-Monitor/src/processor.cpp
+/home/workspace/CppND-System-Monitor/System-Monitor/src/processor.cpp
 processor.h
-/home/workspace/CppND-System-Monitor/src/processor.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/processor.h
 linux_parser.h
-/home/workspace/CppND-System-Monitor/src/linux_parser.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/linux_parser.h
 
-/home/workspace/CppND-System-Monitor/src/system.cpp
+/home/workspace/CppND-System-Monitor/System-Monitor/src/system.cpp
 unistd.h
 -
 cstddef
@@ -132,11 +132,11 @@ vector
 iostream
 -
 linux_parser.h
-/home/workspace/CppND-System-Monitor/src/linux_parser.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/linux_parser.h
 process.h
-/home/workspace/CppND-System-Monitor/src/process.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/process.h
 processor.h
-/home/workspace/CppND-System-Monitor/src/processor.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/processor.h
 system.h
-/home/workspace/CppND-System-Monitor/src/system.h
+/home/workspace/CppND-System-Monitor/System-Monitor/src/system.h
 

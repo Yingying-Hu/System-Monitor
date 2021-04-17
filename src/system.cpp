@@ -10,11 +10,7 @@
 #include "processor.h"
 #include "system.h"
 
-using std::cout;
-using std::set;
-using std::size_t;
-using std::string;
-using std::vector;
+using namespace std;
 using namespace LinuxParser;
 
 
