@@ -6,7 +6,10 @@
 #include <iostream>
 
 #include "linux_parser.h"
-using namespace std;
+using std::stof;
+using std::string;
+using std::to_string;
+using std::vector;
 
 //Read data from the filesystem without replacing the line
 template <typename T> T LinuxParser::findValueByKey(string const &keyFilter, string const &filename){

@@ -29,7 +29,7 @@ vector<Process>& System::Processes() {
     p.CpuUtilization(pid);
     p.Ram(pid);
     p.UpTime(pid);
-    processes_.push_back(p);
+    processes_.emplace_back(p);
   }
   std::sort(processes_.begin(), processes_.end(), std::greater<Process>());
   return processes_;

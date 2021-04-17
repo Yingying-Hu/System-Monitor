@@ -19,7 +19,12 @@ int Process::Pid() { return pid_; }
 float Process::CpuUtilization() { return cpu; }
 
 // TODO: Return the command that generated this process
-string Process::Command() { return cmdline; }
+string Process::Command() { 
+  if (cmdline.length()>40){
+    cmdline = cmdline.substr(0,40).append("...");
+    }
+  return cmdline; 
+  }
 
 // TODO: Return this process's memory utilization
 string Process::Ram() { return ram; }
